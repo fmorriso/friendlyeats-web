@@ -2,7 +2,9 @@
 
 ## References
 
-https://codelabs.developers.google.com/codelabs/firestore-web/#5
+[Cloud Firestore Web - Steps](https://codelabs.developers.google.com/codelabs/firestore-web/)
+
+[Cloud Firestore Web - YouTube Tutorial](https://www.youtube.com/watch?v=ZL0C8lm0FlA)
 
 ## Introduction
 
