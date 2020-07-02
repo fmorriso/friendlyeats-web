@@ -1,5 +1,9 @@
 # FriendlyEats (Web)
 
+## References
+
+https://codelabs.developers.google.com/codelabs/firestore-web/#5
+
 ## Introduction
 
 FriendlyEats is a restaurant recommendation app built on Cloud Firestore.
@@ -17,7 +21,7 @@ Follow the [Cloud Firestore Web Codelab][codelab] to set up this sample.
 
 ## License
 
-© Google, 2018. Licensed under an [Apache-2](./LICENSE) license.
+&copy; Google, 2018. Licensed under an [Apache-2](./LICENSE) license.
 
 ## Build Status
 
